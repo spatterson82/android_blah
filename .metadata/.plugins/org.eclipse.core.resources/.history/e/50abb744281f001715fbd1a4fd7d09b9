@@ -1,0 +1,10 @@
+package org.disastermanagement_lab6;
+
+public class ReportFilterActivity {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,5 @@
+insert into person (first_name, last_name, is_male, age, blood_type, telephone) values ('Bob', 'Villa', 't', 52, 'A', '1-235-343-34332');
+
+insert into report (reportor_id, report_type, disaster_type, geom) values (3, 'donation', 'hurricane', ST_GeomFromText('POINT(-102 33)', 4326));
+
+insert into donation_report ( report_id, resource_type) values (3, 'food');

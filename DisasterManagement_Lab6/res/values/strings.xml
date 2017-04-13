@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DisasterManagement</string>
+    <string name="action_settings">Settings</string>
+    <string name="disaster_query_label">Disaster Type: </string>
+	<string name="report_type_query_label">Report Type: </string>
+	<string name="submit_button">Submit Query</string>
+	
+    <string-array name="disaster_type_spinner">
+        <item>--Select disaster type--</item>
+        <item>flood</item>
+        <item>wildfire</item>
+        <item>earthquake</item>
+        <item>tornado</item>
+        <item>hurricane</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="report_type_spinner">
+        <item>--Select report type--</item>
+        <item>request</item>
+        <item>donation</item>
+        <item>damage</item>
+    </string-array>
+    <string-array name="resource_type_spinner">
+        <item>--Select resource type--</item>
+        <item>water</item>
+        <item>food</item>
+        <item>money</item>
+        <item>medicine</item>
+        <item>cloth</item>
+        <item>rescue/volunteer</item>
+    </string-array>
+    <string-array name="damage_type_spinner">
+        <item>--Select damage type--</item>
+        <item>polution</item>
+        <item>building damage</item>
+        <item>road damage</item>
+        <item>casualty</item>
+        <item>other</item>
+    </string-array>
+    
+</resources>

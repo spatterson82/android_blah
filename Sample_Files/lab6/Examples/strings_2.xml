@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Disaster Management</string>
+    <string name="action_settings">Settings</string>
+    <string name="disaster_query_label">Disaster Type: </string>
+    <string name="report_type_query_label">Report Type: </string>
+
+</resources>
